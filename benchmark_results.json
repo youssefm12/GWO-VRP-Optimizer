@@ -1,0 +1,32 @@
+[
+  {
+    "name": "10 clients",
+    "n_customers": 10,
+    "baseline_distance": 278.9,
+    "baseline_routes": 2,
+    "gwo_distance": 275.5,
+    "gwo_routes": 2,
+    "improvement_percent": 1.2,
+    "runtime": 0.48
+  },
+  {
+    "name": "20 clients",
+    "n_customers": 20,
+    "baseline_distance": 459.6,
+    "baseline_routes": 3,
+    "gwo_distance": 440.2,
+    "gwo_routes": 3,
+    "improvement_percent": 4.2,
+    "runtime": 0.67
+  },
+  {
+    "name": "30 clients",
+    "n_customers": 30,
+    "baseline_distance": 554.7,
+    "baseline_routes": 3,
+    "gwo_distance": 556.4,
+    "gwo_routes": 3,
+    "improvement_percent": -0.3,
+    "runtime": 0.66
+  }
+]
